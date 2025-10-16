@@ -24,7 +24,7 @@ It enhances your reading experience with a clean interface and privacy-focused d
 ### Manual Installation (Developer Mode)
 1. **Download or clone** this repository:
    ```
-   git clone https://github.com/<your-username>/void-medium-premium-accesser.git
+   git clone https://github.com/quadra-v69/void-medium-premium-accesser.git
 
 
 2. Open **Chrome** and go to `chrome://extensions/`
