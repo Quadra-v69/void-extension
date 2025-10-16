@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Void Redirector by Quadra_v69",
+  "version": "1.0.0",
+  "description": "a medium payment bypass redirector made by Quadra_v69.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/spider.png",
+      "48": "icons/spider1.png",
+      "128": "icons/spider2.png"
+    }
+  },
+  "permissions": ["activeTab", "tabs"],
+  "host_permissions": ["<all_urls>"]
+}
